@@ -7,7 +7,7 @@ from telegram import Update
 
 TOKEN = '7989005994:AAGCZGrvyF1lvMY_OtsAgcQ_NHQl4-uGecE'
 CHANNEL_ID = -1002809117020
-LINK_AFILIADO = 'https://ganhowin.fun/?ref=seunome'
+LINK_AFILIADO = 'https://brbetwin.net/y6m9kjnfn'
 IMAGEM_SINAL = 'https://static.sambafoot.com/br/apostas/wp//Imagem-destaque-mines.jpg'
 
 
@@ -31,7 +31,7 @@ def gerar_sinal():
     horario_brasilia = (datetime.utcnow() -
                         timedelta(hours=3)).strftime("%H:%M:%S")
 
-    mensagem = f"""💣 SINAL DE MINES - Ganhawin 💥
+    mensagem = f"""💣 SINAL DE MINES - Mouraxf7 💥
 
 🎯 Minas: {bombas}   |   💹 Chance de Acerto: {chance}%
 
