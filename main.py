@@ -7,7 +7,7 @@ from telegram import Update
 
 TOKEN = '7989005994:AAGCZGrvyF1lvMY_OtsAgcQ_NHQl4-uGecE'
 CHANNEL_ID = -1002809117020
-LINK_AFILIADO = 'https://brbetwin.net/y6m9kjnfn'
+LINK_AFILIADO = 'https://ganhowin.fun/register?referralCode=f432b625-4e19-454d-bda0-919221f9af31'
 IMAGEM_SINAL = 'https://static.sambafoot.com/br/apostas/wp//Imagem-destaque-mines.jpg'
 
 
